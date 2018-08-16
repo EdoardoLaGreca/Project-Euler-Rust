@@ -13,4 +13,4 @@ Cargo.lock
 .idea/
 *.iml
 
-id_1_multiples_of_3_and_5/target/
+*/target/

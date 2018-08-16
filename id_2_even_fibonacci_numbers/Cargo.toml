@@ -1,0 +1,6 @@
+[package]
+name = "id_2_even_fibonacci_numbers"
+version = "0.1.0"
+authors = ["Edoardo La Greca <edo.lag@zoho.eu>"]
+
+[dependencies]
