@@ -21,11 +21,6 @@ Project-Euler-Rust/
 │  └─ src/
 │     └─ main.rs
 │
-├─ id_3_largest_prime_factor/
-│  ├─ Cargo.toml
-│  └─ src/
-│     └─ main.rs
-│
 [...]
 │
 └─ id_x_title_of_problem/
