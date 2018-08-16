@@ -1,0 +1,6 @@
+[package]
+name = "id_1_multiples_of_3_and_5"
+version = "0.1.0"
+authors = ["Edoardo La Greca <edo.lag@zoho.eu>"]
+
+[dependencies]
