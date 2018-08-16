@@ -12,3 +12,5 @@ Cargo.lock
 # Since I'm using IntelliJ IDEA, I need to ignore also these
 .idea/
 *.iml
+
+id_1_multiples_of_3_and_5/target/
