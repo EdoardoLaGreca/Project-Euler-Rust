@@ -1,0 +1,5 @@
+I've read the other members' solutions about this problem on projecteuler.net and I
+discovered that IT COULD HAVE BEEN A LOT SMALLER. I'm sorry I wrote so much code but
+I thought it was the simplest way for both reading and writing it. I feel bad now, not
+just because it was MUCH LONGER, but because I wasted time writing something too long.
+Sorry again.
