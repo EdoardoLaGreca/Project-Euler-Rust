@@ -6,6 +6,7 @@ You can find the full problems list [here](https://projecteuler.net/archives)
 ### Repo structure:  
 ```
 Project-Euler-Rust/
+
 ├─ id_1_multiples_of_3_and_5/
 │  ├─ Cargo.toml
 │  └─ src/
@@ -23,8 +24,12 @@ Project-Euler-Rust/
 │
 [...]
 │
-└─ id_x_title_of_problem/
-   ├─ Cargo.toml
-   └─ src/
-      └─ main.rs
+├─ id_x_title_of_problem/
+│  ├─ Cargo.toml
+│  └─ src/
+│     └─ main.rs
+│
+├─ .gitignore
+└─ README.md
 ```
+NOTE: There may be extra files inside folders in addition to the ones of the structure.
