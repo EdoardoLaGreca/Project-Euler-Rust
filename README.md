@@ -1,6 +1,6 @@
 # Project-Euler-Rust
 ![(Project Euler's logo)](https://i.warosu.org/data/sci/img/0075/54/1443403438386.png)  
-Solutions to the Project Euler's problem written in Rust.  
+Solutions to the Project Euler's problems written in Rust.  
 You can find the full problems list [here](https://projecteuler.net/archives)  
 
 ### Repo structure:  
