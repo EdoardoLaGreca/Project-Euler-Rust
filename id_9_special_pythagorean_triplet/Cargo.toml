@@ -1,0 +1,6 @@
+[package]
+name = "id_9_special_pythagorean_triplet"
+version = "0.1.0"
+authors = ["Edoardo La Greca <edo.lag@zoho.eu>"]
+
+[dependencies]
