@@ -1,0 +1,6 @@
+[package]
+name = "id_8_largest_product_in_a_series"
+version = "0.1.0"
+authors = ["edoardo"]
+
+[dependencies]
