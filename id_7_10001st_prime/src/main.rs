@@ -6,14 +6,15 @@ What is the 10,001st prime number?
 // Check if a number is prime
 fn is_prime(n: i64) -> bool {
 
-	if n == 0 || n == 1 {
-		return false;
-	} else if n == 2 {
-		return true;
+	// These numbers are too small to be used in the for loop
+	match n {
+		0 | 1  => return false,
+		2 => return true,
+		_ => (),
 	}
 
-	// For each number between 1 and n/2
-	for i in 3..=(n/2) {
+	// For each number between 5 and n/2
+	for i in 1..=(n/2) {
 
 		// If n module i is 0 return false
 		if n % i == 0 && n != i && i != 1 {
