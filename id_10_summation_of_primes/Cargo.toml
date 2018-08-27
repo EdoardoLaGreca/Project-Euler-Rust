@@ -1,0 +1,6 @@
+[package]
+name = "id_10_summation_of_primes"
+version = "0.1.0"
+authors = ["Edoardo La Greca <edo.lag@zoho.eu>"]
+
+[dependencies]
