@@ -2,12 +2,11 @@
 # will have compiled files and executables
 /target/
 
-# Remove Cargo.lock from gitignore if creating an executable, leave it for libraries
-# More information here https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html
-Cargo.lock
+# Made automatically by cargo
+**/Cargo.lock
 
-# Made while compiling Rust
-**/target/
+# Script made to easily setup new problems' directories
+new_problem.sh
 
 # Made by VS Code
 .vscode/
