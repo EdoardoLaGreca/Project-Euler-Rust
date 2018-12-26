@@ -13,7 +13,7 @@ fn is_prime(n: i64) -> bool {
 		_ => (),
 	}
 
-	// For each number between 5 and n/2
+	// For each number between 1 and n/2
 	for i in 1..=(n/2) {
 
 		// If n module i is 0 return false
