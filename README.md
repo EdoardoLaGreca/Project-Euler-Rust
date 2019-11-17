@@ -1,5 +1,5 @@
 # Project-Euler-Rust
-![(Project Euler's logo)](https://i.warosu.org/data/sci/img/0075/54/1443403438386.png)  
+![(Project Euler's logo)](https://projecteuler.net/themes/20191019/logo_default.png)  
 Solutions to the Project Euler's problems written in Rust.  
 You can find the full problems list [here](https://projecteuler.net/archives)  
 
