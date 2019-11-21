@@ -2,7 +2,7 @@ fn main() {
     // Solved following the method described here:
     // https://www.robertdickau.com/lattices.html
     //
-    // Here the variable grid represents this image: 
+    // Here the variable grid represents this image:
     // https://www.robertdickau.com/binomialpaths4.png
     // but rotated by 45 degrees clockwise.
 
@@ -46,9 +46,7 @@ fn main() {
                 previous_row_value += grid[row - 1][column];
                 grid[row][column] = previous_row_value;
             }
-
-            // println!("    previous_row_value: {}", previous_row_value); //DEBUG
-            // println!("    grid: {:?}", grid); //DEBUG
+            
         }
 
         if row == grid.len() - 1 {
