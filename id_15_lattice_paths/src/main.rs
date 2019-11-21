@@ -46,6 +46,9 @@ fn main() {
                 previous_row_value += grid[row - 1][column];
                 grid[row][column] = previous_row_value;
             }
+
+            // println!("    previous_row_value: {}", previous_row_value); //DEBUG
+            // println!("    grid: {:?}", grid); //DEBUG
         }
 
         if row == grid.len() - 1 {
