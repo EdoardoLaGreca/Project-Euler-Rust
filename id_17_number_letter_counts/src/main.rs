@@ -11,7 +11,7 @@ letters and 115 (one hundred and fifteen) contains 20 letters. The use of "and" 
 numbers is in compliance with British usage.
 */
 
-// NOTE: Code is not optimized in terms of reuse and performance. I just wrote it
+// NOTE: Code is not optimized in terms of resources and performance. I just wrote it
 //       as much understandable as possible.
 
 // Transcribes the number into letters and returns a vector made of items grouped
